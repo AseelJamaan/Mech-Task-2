@@ -1,7 +1,8 @@
 # Mech-Task-2
 ### README: Two-Wheel Robot  
 
-![image](https://github.com/AseelJamaan/Mech-Task-2/blob/aea33cdea1da234d251f637bf918175f865daa65/Screenshot%20(191).png)
+![Two-Wheel Robot with The Base](https://github.com/AseelJamaan/Mech-Task-2/blob/aea33cdea1da234d251f637bf918175f865daa65/Screenshot%20(191).png)
+![Two-Wheel Robot  ](Two-Wheel Robot  )
 
 **About the Robot:**  
 This is a compact two-wheel robot designed for small projects.
