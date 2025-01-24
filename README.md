@@ -9,9 +9,9 @@ This is a compact two-wheel robot designed for small projects.
 ---
 
 **Robot Dimensions:**  
-- **Width:** 120 mm (including the wheels).  
-- **Length:** 100 mm.  
-- **Height:** 40 mm (including the base, motors, and wheels).  
+- **Width:** 101.91 mm. 
+- **Length:** 76 mm.  
+- **Height:** 36 mm.  
 
 ---
 
